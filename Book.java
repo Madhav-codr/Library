@@ -1,4 +1,4 @@
-package LibraryCatalogue; 
+package CentralLibrary; 
 
 public class Book {
 

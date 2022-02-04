@@ -1,4 +1,4 @@
-import java.Library.LiraryCatalogue;
+import java.CentralLibrary.LiraryCatalogue;
 public class LibraryRun {
 	public static void main(String[] args) {
         Map<String, Book> bookCollection = new HashMap<String, Book>();
